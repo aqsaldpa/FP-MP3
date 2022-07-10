@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390225067234",
+    "project_id": "loginpresensiapp",
+    "storage_bucket": "loginpresensiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390225067234:android:7294f321e99e262cf072bb",
+        "android_client_info": {
+          "package_name": "com.aqsl.teamupfp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390225067234-g7nvp446ddicmnbapg7l2hn7tga0gk3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aqsl.teamupfp",
+            "certificate_hash": "fdac8899d8eabf41fe38b460637d55c046757e4d"
+          }
+        },
+        {
+          "client_id": "390225067234-75j48qhsr848578okb33dvlojk714sff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Aif1yPqEPgonZ90Hx3Nf4fg92XshSn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390225067234-75j48qhsr848578okb33dvlojk714sff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
